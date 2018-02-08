@@ -28,31 +28,7 @@ navigation:
     id: 820cfe39-9e1c-45bf-ab55-e54a99fd83d9
     type: content
 title: '50plus '
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f50b3f281b8644695cf244a9a1eb7eca3d5e4a2.jpg">
-    src: >-
-      https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f50b3f281b8644695cf244a9a1eb7eca3d5e4a2.jpg
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://s3-us-west-2.amazonaws.com'
-        name: .s3-us-west-2.amazonaws.com
-        favicon: null
-        domain: s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: >-
   Wir berichten über alltägliches im Alter und im Pflegebedarf,  zeigen Lösungen
   auf und geben Hilfestellung.
