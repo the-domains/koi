@@ -6,8 +6,8 @@ description: >-
   Promiwelt und ist selbst einer der letzten Stars, die das Fernsehen aufkommen
   ließ. Dabei sind es diese Stars, denen der Zuschauer folgt und welche ein
   Programm interessant machen.
-dateModified: '2018-02-08T16:10:36.680Z'
-datePublished: '2018-02-08T16:10:37.425Z'
+dateModified: '2018-02-08T16:15:49.608Z'
+datePublished: '2018-02-08T16:15:50.404Z'
 title: 'Das sind wir:'
 author: []
 publisher: {}
@@ -26,8 +26,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0de41e15-b59a-47b5-9dd1-f92af5c0dfff.jpg)
 
 Hans Meiser kann viele Jahrzehnte Medienerfahrung, Know-how und ein enormes intellektuelles Wissen vorweisen. Er verfügt über beste Kontakte in die Promiwelt und ist selbst einer der letzten Stars, die das Fernsehen aufkommen ließ. Dabei sind es diese Stars, denen der Zuschauer folgt und welche ein Programm interessant machen.
-
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/Lp8Tn-WmpgY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Michael Geuer
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eba55827-74c4-4c38-a0fe-660d93a412d9.jpg)
