@@ -1,0 +1,41 @@
+layout_spectrum: 0.3791171006413896
+typography_spectrum: 0.16177470026629986
+color:
+  lightness: 0.7217655855667141
+  brandColors:
+    - '#FFFFFF'
+    - '#181818'
+    - '#988982'
+    - '#59503D'
+    - '#6DD9EF'
+  saturation: 0.15336442039910667
+  brandStrength: 0.8666754042590498
+  rhythmicContrast: 0.5044015286614805
+content_rating:
+  adult: false
+name: 50plus
+navigation:
+  - name: DAS SIND WIR
+    id: ae4bc783-d2dc-406b-98fc-7278453965dc
+    type: content
+  - name: UNTERSTÜTZEN SIE UNS
+    id: c3c164c2-07e0-434c-838d-bce2f51e0027
+    type: content
+  - name: UNSER VORHABEN
+    id: 69066335-9091-429c-a942-592aed3c6c66
+    type: content
+  - name: FAKTEN
+    id: 820cfe39-9e1c-45bf-ab55-e54a99fd83d9
+    type: content
+title: '50plus '
+content: []
+description: >-
+  Wir berichten über alltägliches im Alter und im Pflegebedarf,  zeigen Lösungen
+  auf und geben Hilfestellung.
+purpose: []
+github: true
+author:
+  name: Michael Geuer
+  email: michael.geuer@gmx.de
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2098087d-3153-4013-a40f-90bfea9a2f0c.jpg
