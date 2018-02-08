@@ -46,7 +46,6 @@ content:
         domain: s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -64,3 +63,4 @@ author:
   email: michael.geuer@gmx.de
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2098087d-3153-4013-a40f-90bfea9a2f0c.jpg
+url: 'https://thegrid.ai/50plus/'
