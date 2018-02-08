@@ -6,8 +6,8 @@ description: >-
   Promiwelt und ist selbst einer der letzten Stars, die das Fernsehen aufkommen
   ließ. Dabei sind es diese Stars, denen der Zuschauer folgt und welche ein
   Programm interessant machen.
-dateModified: '2018-02-08T16:45:22.536Z'
-datePublished: '2018-02-08T16:45:23.593Z'
+dateModified: '2018-02-08T16:46:18.232Z'
+datePublished: '2018-02-08T16:46:19.497Z'
 title: 'Das sind wir:'
 author: []
 publisher: {}
